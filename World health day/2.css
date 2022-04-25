@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald:wght@300&family=PT+Sans:ital,wght@1,700&display=swap');
+body{
+    background: linear-gradient(135deg,purple,black);
+    color:cyan;
+    text-align: center;
+    font-family: PT Sans;
+}
+h1{
+    font-size: 56px;
+}
+.nav-item{
+    padding-left: 150px;
+}
+.para{
+    display: flex;
+    justify-content: center;
+}
+p{
+    font-size: 18px;
+}
